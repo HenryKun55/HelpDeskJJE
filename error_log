@@ -1,0 +1,2 @@
+[14-Jun-2018 15:46:07 UTC] PHP Warning:  require(/home/c48bdwgpklyz/public_html/helpdeskjje/vendor/autoload.php): failed to open stream: No such file or directory in /home/c48bdwgpklyz/public_html/helpdeskjje/artisan on line 18
+[14-Jun-2018 15:46:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/c48bdwgpklyz/public_html/helpdeskjje/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/c48bdwgpklyz/public_html/helpdeskjje/artisan on line 18

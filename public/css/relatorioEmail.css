@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+html{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13pt;
+}
+
+img{
+    height: 150px;
+    width: 400px;
+  }
+
+table td#header{
+    background-color:#CC3333;
+    color: white;
+}
+
+table td#headerRelatorio{
+    background-color:#CC3333;
+    color: white;
+    border-top: 3px solid white;
+}
+
+table tr#headerRelatorio{
+    background-color:#CC3333;
+    color: white;
+    border-top: 3px solid white;
+}
+
+table#tabDados tr{
+    border-spacing: 0;
+    border-color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table tr td{
+    border: 2px solid black;
+    border-color: #CC3333;
+    border-spacing: 0;
+    padding: 10px;
+    margin: 0;
+}
